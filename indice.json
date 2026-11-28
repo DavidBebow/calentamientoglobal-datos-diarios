@@ -1,0 +1,17 @@
+{
+ "v": 1,
+ "generado": "2026-11-28T20:32:24Z",
+ "municipios": 1999,
+ "sin_prevision_vigente": 3,
+ "bloques_nuevos": {
+  "prevision_dias": 1996,
+  "rango": 649,
+  "acumulado_otono": 1934,
+  "acumulado_mes": 1561,
+  "embalses": 1819,
+  "frio": 1996,
+  "nieve": 1218
+ },
+ "ruta": "m/<ine5>.json",
+ "libro": "hist/AAAA-MM/<prov>.jsonl"
+}
